@@ -6,4 +6,4 @@ This is the Apollo server for https://github.com/MirelesCloud/mirelescloud-newsa
 
 From the root folder run
 
-### `node src.index.js`
+### `node src/index.js`
